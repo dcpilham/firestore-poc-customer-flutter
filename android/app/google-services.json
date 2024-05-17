@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "469586456565",
+    "project_id": "segarifirestoredemo",
+    "storage_bucket": "segarifirestoredemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469586456565:android:28bee03d3bb244f662babc",
+        "android_client_info": {
+          "package_name": "com.example.firestore_poc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkOJPhQ0QaDivBXZfBEy6ReNYd8WxnchY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
